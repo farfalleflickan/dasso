@@ -1,0 +1,10 @@
+{
+    "openweather_apikey" : "openweather-api-key",
+    "account_link" : "your-sso-account-management-link",
+    "logout_link" : "your-sso-account-logout-link",
+    "background_image" : "img/wallpaper.jpg",
+    "roles" : {
+        "oauth_admin" : "admin",
+        "oauth_user" : "user"
+    }
+}

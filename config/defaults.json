@@ -1,0 +1,26 @@
+{
+    "admin": [
+        {
+            "name": "AppName",
+            "url":  "URL",
+            "icon": "icons/icon.png"
+        },
+        {
+            "name": "AppName",
+            "url":  "URL",
+            "icon": "icons/icon.png"
+        }
+    ],
+    "user": [
+        {
+            "name": "AppName",
+            "url":  "URL",
+            "icon": "icons/icon.png"
+        },
+        {
+            "name": "AppName",
+            "url":  "URL",
+            "icon": "icons/icon.png"
+        }
+    ]
+}

@@ -41,8 +41,7 @@ if (array_key_exists("weather_data", $user_data)==false || isset($user_data["wea
 }
 
 $update_user_weather = 0;
-
-if ((time() - $user_weather_data["timestamp"]) >= 900) {
+if ((time() - floor($user_weather_data["timestamp"]/1000)) >= 900) {
     $update_user_weather = 1;
 }
 

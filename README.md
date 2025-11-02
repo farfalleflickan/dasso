@@ -4,6 +4,11 @@
 
 A small simple dashboard/homepage for your selfhosted services, that integrates well with your SSO service. It is designed aorund [OAuth2-Proxy](https://oauth2-proxy.github.io/oauth2-proxy/).
 
+![Home](https://raw.githubusercontent.com/farfalleflickan/dasso/refs/heads/screenshots/home.png)
+![Settings](https://raw.githubusercontent.com/farfalleflickan/dasso/refs/heads/screenshots/settings.png)
+![Weather](https://raw.githubusercontent.com/farfalleflickan/dasso/refs/heads/screenshots/weather.png)
+![Bookmark](https://raw.githubusercontent.com/farfalleflickan/dasso/refs/heads/screenshots/bookmark.png)
+
 ## Getting Started
 
 ### Dependencies
